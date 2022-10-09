@@ -16,3 +16,5 @@ To deploy this project:
 ## Documentation
 
 This project aims to reduce mental stress and improve the mood by allowing the player to accompalish an achievable goal.
+link--> 
+https://github.com/avigarg820/Interactive-No.-Guessing-Game-.py/blob/main/file1.ipynb
